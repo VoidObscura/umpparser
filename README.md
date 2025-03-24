@@ -21,4 +21,4 @@ It currently supports:
 
 - ✅ `MEDIA_HEADER` decoding (Part 20)
 - ✅ `MEDIA` data extraction (Part 21)
-- ✅ Reassembly of partial UMP responses
+- ✅  Reassembly of partial UMP responses
