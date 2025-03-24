@@ -1,5 +1,7 @@
 # UMP Parser
 
+This project is purely for academic research and does not encourage or support illegal actions on behalf of any entity.
+
 Parse YouTube's undocumented `UMP` media response format.  
 Supports Part 20 (`MEDIA_HEADER`) and Part 21 (`MEDIA`) parsing.
 
